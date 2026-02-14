@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "どっちにするの？ / 初音ミク・重音テト",
+  "base_artist": "hiroki.",
+  "createdAt": "2026-02-14T14:57:52.475272Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どっちにするの?",
+      "artist": "hiroki.",
+      "has_synced": false,
+      "path": "select/pl_01_どっちにするの_hiroki..txt"
+    }
+  ]
+}
